@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="External software - 3th party provider - non deployables"
-    id="id-ec3e61bafbde4e7b813bec447e9d6830">
+    id="id-ec3e61bafbde4e7b813bec447e9d6830"
+    viewpoint="implementation_migration">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b0c129aa617240c493ab1f8f3bf3a59e">
