@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Database access by application"
-    id="id-9944365fe82b4eb0a4d7e6577f1d46ab">
+    id="id-9944365fe82b4eb0a4d7e6577f1d46ab"
+    viewpoint="implementation_deployment">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dd52d04b70674bebb2a2be903b7d706a"

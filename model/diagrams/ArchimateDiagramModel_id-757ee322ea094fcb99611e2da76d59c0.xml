@@ -1111,8 +1111,8 @@
           href="CompositionRelationship_id-7d6eafb00f8246ebae999efdbb3caffd.xml#id-7d6eafb00f8246ebae999efdbb3caffd"/>
     </sourceConnections>
     <bounds
-        x="-312"
-        y="1248"
+        x="-564"
+        y="804"
         width="120"
         height="55"/>
     <archimateElement
@@ -1128,17 +1128,13 @@
         id="id-860ca08624534985b547e7ffa4a485f6"
         source="id-f67a339deb87477a9f3bbbeb15e1aeb3"
         target="id-b80204dbdb7f418eb30cc59d57a0ba51">
-      <bendpoints
-          startY="-315"
-          endX="-156"
-          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-a7ce9daa97ef4d61b7cb6265e168eee6.xml#id-a7ce9daa97ef4d61b7cb6265e168eee6"/>
     </sourceConnections>
     <bounds
-        x="-312"
-        y="1116"
+        x="-348"
+        y="804"
         width="120"
         height="55"/>
     <archimateElement
@@ -1299,5 +1295,39 @@
     <archimateElement
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-d6c339259f8847e09a9479edf079e398.xml#id-d6c339259f8847e09a9479edf079e398"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-829cf3e2e9fb479dac41a601574a4dd5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8864a0657efd465ead6d89defe83678d"
+        source="id-829cf3e2e9fb479dac41a601574a4dd5"
+        target="id-90cc8a08c3534ee3894a80675876b381">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-70293fd15ae94e94a31e5b09dbecf239.xml#id-70293fd15ae94e94a31e5b09dbecf239"/>
+    </sourceConnections>
+    <bounds
+        x="564"
+        y="168"
+        width="140"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-7685584b8de44cc3a561900fb3bffce1.xml#id-7685584b8de44cc3a561900fb3bffce1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-90cc8a08c3534ee3894a80675876b381"
+      targetConnections="id-8864a0657efd465ead6d89defe83678d">
+    <bounds
+        x="564"
+        y="48"
+        width="140"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-f994c257523e4b468b605f4af391c005.xml#id-f994c257523e4b468b605f4af391c005"/>
   </children>
 </archimate:ArchimateDiagramModel>
