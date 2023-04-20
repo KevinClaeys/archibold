@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implementation &amp; Deployment VP - Customer Portal x DP"
-    id="id-757ee322ea094fcb99611e2da76d59c0"
-    viewpoint="implementation_deployment">
+    id="id-757ee322ea094fcb99611e2da76d59c0">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4f927f7812f449a7a50602deeea521eb"
@@ -557,9 +556,9 @@
         target="id-4f927f7812f449a7a50602deeea521eb">
       <bendpoints
           startX="240"
-          startY="-2"
+          startY="-3"
           endX="-792"
-          endY="-230"/>
+          endY="-231"/>
       <bendpoints
           startX="240"
           startY="166"
@@ -664,6 +663,20 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-1e3351870aef4dac85308d73f3240279.xml#id-1e3351870aef4dac85308d73f3240279"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2d7dcb67441d41d580bd825f4cfc4655"
+        source="id-dc1304663a024ddba18fedc3c4466c82"
+        target="id-29efe0b3a4224eafac1a3f7008e61638">
+      <bendpoints
+          startX="432"
+          startY="9"
+          endX="-702"
+          endY="9"/>
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-d6c132aaa6db489783bb20a06dfaf28f.xml#id-d6c132aaa6db489783bb20a06dfaf28f"/>
+    </sourceConnections>
     <bounds
         x="-264"
         y="432"
@@ -676,7 +689,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-29efe0b3a4224eafac1a3f7008e61638"
-      targetConnections="id-ee1c1979b6f04af1bb905b8da212f5e9 id-1f3a73971a9544689f59f21035141799">
+      targetConnections="id-ee1c1979b6f04af1bb905b8da212f5e9 id-1f3a73971a9544689f59f21035141799 id-2d7dcb67441d41d580bd825f4cfc4655">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d923e3cc6c754c6a897ed763606c760e"
