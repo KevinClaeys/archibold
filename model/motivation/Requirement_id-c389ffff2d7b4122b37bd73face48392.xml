@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="For every new Business Context (UP, Resinex, ENTEC, ...) we need the acc and prd environment to be Dynatrace monitored"
+    id="id-c389ffff2d7b4122b37bd73face48392"/>

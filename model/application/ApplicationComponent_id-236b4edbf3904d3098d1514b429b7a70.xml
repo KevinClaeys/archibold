@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="page-consumer (ravago-digital-platform)"
-    id="id-236b4edbf3904d3098d1514b429b7a70"/>
+    id="id-236b4edbf3904d3098d1514b429b7a70">
+  <properties
+      key="repository"
+      value="ravago-digital-platform"/>
+</archimate:ApplicationComponent>
