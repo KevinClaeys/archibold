@@ -431,9 +431,9 @@
           href="AssignmentRelationship_id-ac2836f41e0049418fca5f86aba559ff.xml#id-ac2836f41e0049418fca5f86aba559ff"/>
     </sourceConnections>
     <bounds
-        x="-113"
+        x="-108"
         y="1224"
-        width="204"
+        width="193"
         height="55"/>
     <archimateElement
         xsi:type="archimate:SystemSoftware"
@@ -1652,7 +1652,7 @@
           href="CompositionRelationship_id-a54951b141f04915876978ad0ec30528.xml#id-a54951b141f04915876978ad0ec30528"/>
     </sourceConnections>
     <bounds
-        x="168"
+        x="108"
         y="1224"
         width="217"
         height="55"/>
